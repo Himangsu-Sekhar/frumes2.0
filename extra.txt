@@ -1,0 +1,46 @@
+      <div class="col-6 col-md-3 icon-box position-relative">
+        <i class="fas fa-bullhorn"></i>
+        <p>Digital PR</p>
+        <div class="service-detail">
+          Boost your online reputation and visibility with PR outreach.
+        </div>
+      </div>
+
+      <div class="col-6 col-md-3 icon-box position-relative">
+        <i class="fas fa-globe"></i>
+        <p>SEO</p>
+        <div class="service-detail">
+          Improve your search rankings and grow organic traffic.
+        </div>
+      </div>
+
+      <div class="col-6 col-md-3 icon-box position-relative">
+        <i class="fas fa-chart-bar"></i>
+        <p>Analytics & Reporting</p>
+        <div class="service-detail">
+          Get insights into your marketing performance and KPIs.
+        </div>
+      </div>
+
+      <div class="col-6 col-md-3 icon-box position-relative">
+        <i class="fas fa-chart-line"></i>
+        <p>Social Media Marketing</p>
+        <div class="service-detail">
+          Strategize and execute campaigns across all platforms.
+        </div>
+      </div>
+
+      <div class="col-6 col-md-3 icon-box position-relative">
+        <i class="fas fa-pen-nib"></i>
+        <p>Content Writing</p>
+        <div class="service-detail">
+          Craft compelling content that engages and converts.
+        </div>
+      </div>
+      <div class="col-6 col-md-3 icon-box position-relative">
+        <i class="fas fa-film"></i>
+        <p>Video Production</p>
+        <div class="service-detail">
+          We create stunning videos tailored to your brand story.
+        </div>
+      </div>

@@ -1,0 +1,134 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to bottom, #6c4dff 0%, #f1e8ff 30%);
+    color: #ffffff;
+  }
+
+  .hero {
+    min-height: 100vh;
+    background-image: url(/GPT/Assets/Artboard22.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;     /* Vertically center */
+    padding-left: 5%;        /* Move content away from the edge */
+    color: white;
+  }
+  
+  .hero-content {
+    max-width: 600px;
+  }
+  
+  
+
+  .hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+
+  .hero .btn {
+    margin-top: 1rem;
+    padding: 0.75rem 2rem;
+    font-weight: 500;
+    border-radius: 1.5rem;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  }
+
+  .section {
+    padding: 3rem 1rem;
+    background: #f3eaff;
+    color: #333;
+  }
+
+  .section-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.8rem;
+    margin-bottom: 2rem;
+  }
+
+  .icon-box {
+    background-color: #8f78ff;
+    color: white;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    margin: 1rem;
+  }
+
+  .icon-box i {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .form-section {
+    background-color: #f3eaff;
+    padding: 2rem;
+    border-top: 3px solid #6c4dff;
+    text-align: center;
+  }
+
+  .form-section input,
+  .form-section textarea {
+    border-radius: 0.5rem;
+    border: 1px solid #ccc;
+  }
+
+  .rocket-img {
+    max-height: 200px;
+    margin: 2rem auto;
+    display: block;
+  }
+  .navbar-glass {
+    background-color: rgba(102, 0, 255, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    transition: all 0.3s ease;
+    z-index: 1030;
+  }
+  .carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-image: none; /* remove default white icon */
+  color: #333; /* fallback for SVG font-based arrows */
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+/* Replace with dark custom arrows using Font Awesome or Unicode */
+.carousel-control-prev::after,
+.carousel-control-next::after {
+  font-size: 2rem;
+  color: #333; /* darker arrow color */
+}
+
+.carousel-control-prev::after {
+  content: '‹'; /* Left arrow */
+}
+
+.carousel-control-next::after {
+  content: '›'; /* Right arrow */
+}
+.brand-logo {
+    height: 60px;
+    width: auto;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  .brand-logo:hover {
+    transform: scale(1.1);
+    opacity: 0.85;
+  }
+  .btn-color{
+    font-weight: 500;
+    background-color: #8f78ff;
+    border: 1px #8f78ff solid;
+    border-radius: 5px;
+  }
+  .btn-color:hover{
+    background-color: #533fb5;
+    border: 1px #533fb5 solid;
+  }
+  
